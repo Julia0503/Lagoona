@@ -1,1 +1,1 @@
-# Lagoona
+# Учебный проект Lagoona
